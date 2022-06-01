@@ -27,6 +27,10 @@ console.log(otraVariable_1);
 otraVariable_2 = false;
 console.log(otraVariable_2);
 console.groupEnd();
+
+const nombre = "Ariel";
+const apellido = "Zane";
+console.log(nombre, apellido)
                                 
 
 
