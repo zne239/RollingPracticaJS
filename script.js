@@ -44,5 +44,8 @@ console.log(unObjeto.texto,unObjeto.numero);
 console.log(unObjeto.booleano)
 console.groupEnd();
 
+console.groupCollapsed("arreglo");
+let unArray = ["textito2", 321, true];
+console.log(unArray);
 
                                 
